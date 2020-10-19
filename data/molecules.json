@@ -1,0 +1,446 @@
+{
+    "WATER": {
+        "name": "Water",
+        "makeup": "H2O",
+        "description": "Water (H2O) is the most abundant compound on Earth\"s surface, covering 70 percent of the planet. In nature, water exists in liquid, solid, and gaseous states. It is in dynamic equilibrium between the liquid and gas states at standard temperature and pressure. At room temperature, it is a tasteless and odorless liquid, nearly colorless with a hint of blue. Many substances dissolve in water and it is commonly referred to as the universal solvent. Because of this, water in nature and in use is rarely pure and some properties may vary from those of the pure substance. However, there are also many compounds that are essentially, if not completely, insoluble in water. Water is the only common substance found naturally in all three common states of matter and it is essential for all life on Earth. Water makes up 55% to 78% of the human body.",
+        "link": "https://en.wikipedia.org/wiki/Properties_of_water",
+        "geometry": [
+            {
+                "atom": "OXYGEN",
+                "position": [0,0,0],
+                "bonds": []
+            },
+            {
+                "atom": "HYDROGEN",
+                "position": [3,-3,0],
+                "bonds": [[0]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [-3,-3,0],
+                "bonds": [[0]]
+                    }
+            ],
+        "zoomLevel": 30
+    },
+    "ETHANOL": {
+        "name": "Ethanol",
+        "makeup": "C2H6O",
+        "description": "Ethanol, also commonly called ethyl alcohol, drinking alcohol, or simply alcohol is the principal type of alcohol found in alcoholic beverages, produced by the fermentation of sugars by yeasts. It is a neurotoxic psychoactive drug and one of the oldest recreational drugs used by humans. It can cause alcohol intoxication when consumed in sufficient quantity. Ethanol is a volatile, flammable, colorless liquid with a slight chemical odor. It is used as an antiseptic, a solvent, a fuel, and, due to its low freezing point, the active fluid in post-mercury thermometers. The molecule is a simple one, being an ethyl group linked to a hydroxyl group. Its structural formula, CH3CH2OH, is often abbreviated as C2H5OH, C2H6O, or EtOH.",
+        "link": "https://en.wikipedia.org/wiki/Ethanol",
+        "geometry": [
+            {
+                "atom": "CARBON",
+                "position": [0,0,0],
+                "bonds": []
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [-4.5,3.5,0],
+                "bonds": [[0]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [-3.5,-3.5,-3],
+                "bonds": [[0]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [-3.5,-3.5,3],
+                "bonds": [[0]]
+                    }, 
+            {
+                "atom": "CARBON",
+                "position": [9,0,0],
+                "bonds": [[0]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [12,6,0],
+                "bonds": [[4]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [17,6,0],
+                "bonds": [[5]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [12.5,-3.5,-3],
+                "bonds": [[4]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [12.5,-3.5,3],
+                "bonds": [[4]]
+                    }
+            ],
+        "zoomLevel": 30
+    },
+    "CAFFEINE": {
+        "name": "Caffeine",
+        "makeup": "C8H10N4O2",
+        "description": "Caffeine is a central nervous system (CNS) stimulant of the methylxanthine class. It is the world's most widely consumed psychoactive drug, but — unlike many other psychoactive substances — it is legal and unregulated in nearly all parts of the world. There are several known mechanisms of action to explain the effects of caffeine. The most prominent is that it reversibly blocks the action of adenosine on its receptor and consequently prevents the onset of drowsiness induced by adenosine. Caffeine also stimulates certain portions of the autonomic nervous system.",
+        "link": "https://en.wikipedia.org/wiki/Caffeine",
+        "geometry": [
+            {
+                "atom": "HYDROGEN",
+                "position": [0,0,-3.5],
+                "bonds": []
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [0,0,3.5],
+                "bonds": []
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [-3,-6,0],
+                "bonds": []
+                    },
+            {
+                "atom": "CARBON",
+                "position": [0,-3,0],
+                "bonds": [[0], [1], [2]]
+                    },
+            {
+                "atom": "NITROGEN",
+                "position": [6,-6,0],
+                "bonds": [[3]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [12,-3,0],
+                "bonds": [[4]]
+                    },
+            {
+                "atom": "OXYGEN",
+                "position": [12,3,0],
+                "bonds": [[5, 2]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [18,-6,0],
+                "bonds": [[5]]
+                    },
+            {
+                "atom": "NITROGEN",
+                "position": [24,-4,0],
+                "bonds": [[7]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [26,2,0],
+                "bonds": [[8]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [25,5,-3.5],
+                "bonds": [[9]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [25,5,3.5],
+                "bonds": [[9]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [31,3,0],
+                "bonds": [[9]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [28.5,-8.7,0],
+                "bonds": [[8]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [34,-8.7,0],
+                "bonds": [[13]]
+                    }, 
+            {
+                "atom": "NITROGEN",
+                "position": [24.5,-13.5,0],
+                "bonds": [[13, 2]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [18,-12,0],
+                "bonds": [[15], [7, 2]]
+                    },
+            {
+                "atom": "NITROGEN",
+                "position": [12,-15,0],
+                "bonds": [[16]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [12,-12,0],
+                "bonds": [[17]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [7.5,-23,0],
+                "bonds": [[18]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [15,-23,-3.5],
+                "bonds": [[18]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [15,-23,3.5],
+                "bonds": [[18]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [6,-12,0],
+                "bonds": [[17], [4]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [0,-15,0],
+                "bonds": [[22, 2]]
+                    }
+            ],
+        "zoomLevel": 42
+    },
+    "ISOPROPYL_ALCOHOL": {
+        "name": "Isopropyl Alcohol",
+        "makeup": "(CH3)2CHOH",
+        "description": "Isopropyl alcohol (IUPAC name propan-2-ol), also called isopropanol or dimethyl carbinol, is a compound with the chemical formula C3H8O or C3H7OH or CH3CHOHCH3(sometimes represented as i-PrOH). It is a colorless, flammable chemical compound with a strong odor. As a propyl group linked to a hydroxyl group, it is the simplest example of a secondary alcohol, where the alcohol carbon atom is attached to two other carbon atoms, sometimes shown as (CH3)2CHOH. It is a structural isomer of 1-propanol. It has a wide variety of industrial and household uses.",
+        "link": "https://en.wikipedia.org/wiki/Isopropyl_alcohol",
+        "geometry": [
+            {
+                "atom": "HYDROGEN",
+                "position": [0,0,0],
+                "bonds": []
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [3,-6,-3.5],
+                "bonds": []
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [3,-6,3.5],
+                "bonds": []
+                    },
+            {
+                "atom": "CARBON",
+                "position": [4.5,-2,0],
+                "bonds": [[0], [1], [2]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [10,4,0],
+                "bonds": [[3]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [10,8,3.5],
+                "bonds": [[4]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [10,8,-6],
+                "bonds": [[4]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [6,10,-6],
+                "bonds": [[6]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [15,-2,0],
+                "bonds": [[4]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [19,0,0],
+                "bonds": [[8]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [16,-6,-3.5],
+                "bonds": [[8]]
+                    },
+            {
+                "atom": "HYDROGEN",
+                "position": [16,-6,3.5],
+                "bonds": [[8]]
+                    }
+            ],
+        "zoomLevel": 30
+    },
+    "OCTO_CARBON": {
+        "name": "OCTO CARBON",
+        "makeup": "TEST",
+        "description": "Just a test, don't mind me",
+        "geometry": [
+            {
+                "atom": "CARBON",
+                "position": [0,0,0],
+                "bonds": []
+                    }, 
+            {
+                "atom": "CARBON",
+                "position": [10,0,0],
+                "bonds": [[0]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [17.07, -7.07, 0],
+                "bonds": [[1]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [17.07, -17.07, 0],
+                "bonds": [[2]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [10,-23.07,0],
+                "bonds": [[3]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [0,-23.07,0],
+                "bonds": [[4]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [-7.07,-17.07,0],
+                "bonds": [[5]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [-7.07,-7.07,0],
+                "bonds": [[6], [0]]
+                    }
+            ],
+        "zoomLevel": 45
+    },
+    "TRINITROTOLUENE": {
+        "name": "(TNT) Trinitrotoluene",
+        "makeup": "C6H2(NO2)3CH3",
+        "description": "Trinitrotoluene (/ˌtraɪˌnaɪtroʊˈtɒljuːˌiːn, -ljəˌwiːn/; TNT), or more specifically 2,4,6-trinitrotoluene, is a chemical compound with the formula C6H2(NO2)3CH3. This yellow-colored solid is sometimes used as a reagent in chemical synthesis, but it is best known as an explosive material with convenient handling properties. The explosive yield of TNT is considered to be the standard measure of bombs and other explosives. In chemistry, TNT is used to generate charge transfer salts. While the two words are sometimes used interchangeably in common conversation, TNT is not the same as dynamite, a special formatting of nitroglycerin for use as an industrial explosive.",
+        "link": "https://en.wikipedia.org/wiki/Trinitrotoluene",
+        "geometry": [
+            {
+                "atom": "CARBON",
+                "position": [0,-2,0],
+                "bonds": []
+                    }, 
+            {
+                "atom": "CARBON",
+                "position": [6,2,0],
+                "bonds": [[0, 2]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [12,-2,0],
+                "bonds": [[1]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [12,-10,0],
+                "bonds": [[2, 2]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [6,-14,0],
+                "bonds": [[3]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [0,-10,0],
+                "bonds": [[4, 2], [0]]
+                    },
+
+            {
+                "atom": "HYDROGEN",
+                "position": [-7,1,0],
+                "bonds": [[0]]
+                    },
+            {
+                "atom": "OXYGEN",
+                "position": [-10,7,-3],
+                "bonds": [[6, 2]]
+                    },
+            {
+                "atom": "OXYGEN",
+                "position": [-13,-2,3],
+                "bonds": [[6]]
+                    },
+            {
+                "atom": "CARBON",
+                "position": [6,10,0],
+                "bonds": [[1]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [3,12,4],
+                "bonds": [[9]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position": [3,12,-4],
+                "bonds": [[9]]
+                    }, 
+            {
+                "atom": "HYDROGEN",
+                "position":[11,12,0],
+                "bonds": [[9]]
+                    }, 
+
+            {
+                "atom": "NITROGEN",
+                "position": [19,1,0],
+                "bonds": [[2]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [21,7,3],
+                "bonds": [[13]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [25,-2,-3],
+                "bonds": [[13, 2]]
+                    }, 
+
+            {
+                "atom": "HYDROGEN",
+                "position": [17,-13,0],
+                "bonds": [[3]]
+                    }, 
+
+            {
+                "atom": "NITROGEN",
+                "position": [6,-12,0],
+                "bonds": [[4]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [1,-24,-3],
+                "bonds": [[17]]
+                    }, 
+            {
+                "atom": "OXYGEN",
+                "position": [11,-24,3],
+                "bonds": [[17, 2]]
+                    }, 
+
+            {
+                "atom": "HYDROGEN",
+                "position": [-5,-13,0],
+                "bonds": [[5]]
+                    }
+
+            ],
+        "zoomLevel": 54
+    }
+}
